@@ -19,3 +19,5 @@ services:
 
 volumes:
   db-store:
+    working_dir: /work
+
